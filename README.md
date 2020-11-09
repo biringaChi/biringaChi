@@ -4,7 +4,7 @@
 - 🔭 I’m currently working on ```MPSS``` & ```PIF2```.
 - 🌱 I’m currently learning ```DevSecOps``` & ```Source code analysis```.
 - 🔬 I'm interested in ```Machine Learning``` & ```NLP```.
-- 📫 How to reach me: [portfolio site](https://biringachidera.com/index.html) & [email](biringachidera@gmail.com).
+- 📫 How to reach me: [portfolio site](https://biringachidera.com/index.html).
 
 <!--
 **biringaChi/biringaChi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
