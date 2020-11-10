@@ -2,7 +2,7 @@
 
 
 - 🔭 I’m currently working on ```MPSS``` & ```PIF2```.
-- 🌱 I’m currently learning ```DevSecOps``` & ```Source code analysis```.
+- 🌱 I’m currently learning ```DevSecOps``` & ```SourceCode Analysis```.
 - 🔬 I'm interested in ```Machine Learning``` & ```NLP```.
 - 📫 How to reach me: [portfolio site](https://biringachidera.com/index.html).
 
