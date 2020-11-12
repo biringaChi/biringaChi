@@ -2,8 +2,8 @@
 
 
 - 🔭 I’m currently working on ```MPSS``` & ```PIF2```.
-- 🌱 I’m currently learning ```DevSecOps``` & ```Programming Language Processing (PLP)```.
-- 🔬 I'm interested in ```Machine Learning``` & ```NLP```.
+- 🌱 I’m currently learning  ```PLP``` & ```DevSecOps```.
+- 🔬 I'm interested in ```ML``` & ```NLP```.
 - 📫 How to reach me: [portfolio site](https://biringachidera.com/index.html).
 
 <!--
