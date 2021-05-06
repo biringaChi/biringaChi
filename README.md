@@ -1,10 +1,13 @@
 ##  Hi 👋
 
 
-- 🔭 I’m currently working on ```MPSS``` & ```PIF2```.
+🔭 I’m currently working on ```MPSS```
+
+<!--
 - 🌱 I’m currently learning  ```PLP``` & ```DevSecOps```.
 - 🔬 I'm interested in ```ML``` & ```NLP```.
 - 📫 How to reach me: [portfolio site](https://biringachidera.com/index.html).
+-->
 
 <!--
 **biringaChi/biringaChi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
