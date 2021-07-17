@@ -1,7 +1,9 @@
 ##  Hi 👋
 
 
-🔭 I’m currently working on ```MPSS```
+🔭 I’m currently working on ```MPSS2``` & ```TedRev```
+
+📫 How to reach me: [portfolio site](https://biringachidera.com/index.html)
 
 <!--
 - 🌱 I’m currently learning  ```PLP``` & ```DevSecOps```.
