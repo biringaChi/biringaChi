@@ -1,7 +1,7 @@
 ##  Hi 👋
 
 
-🔭 I’m currently working on ```SEFS```, ```MPSS-Plugin``` & ```TedRev```
+🔭 I’m currently working on ```SpecDet``` ```iFuz```, & ```SEF```
 
 📫 How to reach me: [portfolio site](https://biringachidera.com/index.html)
 
