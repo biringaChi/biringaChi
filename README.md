@@ -1,7 +1,7 @@
 ##  Hi 👋
 
 
-🔭 I’m currently working on ```SpecDet``` ```iFuz```, & ```SEF```
+🔭 I’m currently working on ```SpecDet``` ```iFuzz```, & ```SEF```
 
 📫 How to reach me: [portfolio site](https://biringachidera.com/index.html)
 
