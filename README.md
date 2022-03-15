@@ -1,7 +1,9 @@
 ##  Hi 👋
 
 
-🔭 I’m currently working on ```SpecDet``` ```iFuzz```, & ```SEF```
+🔭 I’m currently working on ```SARA``` & ```SPECDET```
+
+🔬 Research Area: Secure-Code Systems. Software Performance. Database Security.
 
 📫 How to reach me: [portfolio site](https://biringachidera.com/index.html)
 
