@@ -1,9 +1,9 @@
 ##  Hi 👋
 
 
-🔭 I’m currently working on ```SARA``` & ```SPECDET```
+🔭 I’m currently working on $\mu$*SI* & ```SPECDET```
 
-🔬 Research Area: Secure-Code Systems. Software Performance. Database Security.
+🔬 Research Area: Secure-Code Systems. Design-Augmented Security Strategies and Intrusion Detection and Mitigation.
 
 📫 How to reach me: [portfolio site](https://biringachidera.com/index.html)
 
