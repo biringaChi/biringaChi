@@ -3,7 +3,7 @@
 
 🔭 I’m currently working on $\mu$*SI* & ```SPECDET```
 
-🔬 Research Area: Secure-Code Systems. Design-Augmented Security Strategies and Intrusion Detection and Mitigation.
+🔬 Research Area: Secure-Code Systems. Design-Augmented Software Security. Intrusion Detection Systems and Mitigations.
 
 📫 How to reach me: [portfolio site](https://biringachidera.com/index.html)
 
