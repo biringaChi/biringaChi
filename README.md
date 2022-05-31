@@ -5,7 +5,7 @@
 
 🔬 Research Area: Secure-Code Systems. Design-Augmented Software Security. Intrusion Detection Systems.
 
-📫 How to reach me: [portfolio site](https://biringachidera.com/index.html)
+📫 How to reach me: [portfolio site](https://biringachi.github.io/Lines/)
 
 <!--
 - 🌱 I’m currently learning  ```PLP``` & ```DevSecOps```.
