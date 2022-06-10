@@ -3,7 +3,7 @@
 
 🔭 I’m currently working on ```BISI``` & ```SPECDET```
 
-🔬 Research Area: Secure-Code Systems. Design-Augmented Software Security. Intrusion Detection Systems.
+🔬 Research Area: Secure Software Developement. Intrusion Detection Systems. Software Performance and Reliability,
 
 📫 How to reach me: [portfolio site](https://biringachi.github.io/Lines/)
 
