@@ -1,9 +1,8 @@
-##  Hi 👋
-
-
+Nnọọ
+---
 🔭 I’m currently working on ```BISI``` & ```SPECDET```
 
-🔬 Research Area: Secure Software Developement. Intrusion Detection Systems. Software Performance and Reliability,
+🔬 Current Research Area: Secure Software Developement. Intrusion Detection Systems.
 
 📫 How to reach me: [portfolio site](https://biringachi.github.io/Lines/)
 
@@ -23,3 +22,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - ⚡ Fun fact: ...
 -->
+
+Stats
+---
+[![Chidera Biringa's GitHub stats](https://github-readme-stats.vercel.app/api?username=biringaChi&show_icons=true&theme=tokyonight)](https://github.com/bayegaspard/github-readme-stats)
