@@ -4,7 +4,7 @@ Nnọọ
 
 🔬 Current Research Area: Secure Software Developement. Intrusion Detection Systems.
 
-📫 How to reach me: [portfolio site](https://biringachi.github.io/Lines/)
+📫 How to reach me: [portfolio site](https://biringachi.github.io/lines/)
 
 <!--
 - 🌱 I’m currently learning  ```PLP``` & ```DevSecOps```.
