@@ -1,6 +1,6 @@
 Nnọọ
 ---
-🔭 I’m currently working on ```BISI``` & ```SPECDET```
+🔭 I’m currently working on ```VulBERT``` & 
 
 🔬 Current Research Area: Secure Software Developement. Intrusion Detection Systems.
 
