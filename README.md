@@ -1,8 +1,8 @@
 Nnọọ
 ---
-🔭 I’m currently working on ```...```
+🔭 I’m currently working on ```CiS``` & ```SitM```
 
-🔬 Current Research Area: Secure Software Developement. Intrusion Detection Systems.
+🔬 Current Research Area: Proactive Software Security.
 
 📫 How to reach me: [portfolio site](https://biringachi.github.io/lines/)
 
