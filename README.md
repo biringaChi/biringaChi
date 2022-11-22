@@ -1,8 +1,8 @@
 Nnọọ
 ---
-🔭 I’m currently working on ```BEWARE```, ```SiTM``` & ```TRACE```
+🔭 I’m currently working on ```BEWARE``` & ```SiTM```
 
-🔬 Research Interest: The overarching theme of my doctoral research is to reduce attack surfaces vulnerable to adversarial exploits by preventing the accidental or intentional introduction of vulnerabilities in the design and development phases of the SDLC.
+<!-- 🔬 Research Interest: The overarching theme of my doctoral research is to reduce attack surfaces vulnerable to adversarial exploits by preventing the accidental or intentional introduction of vulnerabilities in the design and development phases of the SDLC. -->
 
 📫 How to reach me: [portfolio site](https://biringachi.github.io/lines/)
 
