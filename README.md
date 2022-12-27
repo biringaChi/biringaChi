@@ -1,6 +1,6 @@
 Nnọọ
 ---
-🔭 I’m currently working on ```BEWARE``` & ```SiTM```
+🔭 I’m currently working on ```CADE```, ```VulGAN``` & ```VOMMIT```
 
 <!-- 🔬 Research Interest: The overarching theme of my doctoral research is to reduce attack surfaces vulnerable to adversarial exploits by preventing the accidental or intentional introduction of vulnerabilities in the design and development phases of the SDLC. -->
 
