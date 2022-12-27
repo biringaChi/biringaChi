@@ -4,7 +4,7 @@ Nnọọ
 
 <!-- 🔬 Research Interest: The overarching theme of my doctoral research is to reduce attack surfaces vulnerable to adversarial exploits by preventing the accidental or intentional introduction of vulnerabilities in the design and development phases of the SDLC. -->
 
-📫 How to reach me: [portfolio site](https://biringachi.github.io/lines/)
+<!-- 📫 How to reach me: [portfolio site](https://biringachi.github.io/lines/) -->
 
 <!--
 - 🌱 I’m currently learning  ```PLP``` & ```DevSecOps```.
