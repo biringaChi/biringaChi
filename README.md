@@ -1,6 +1,6 @@
 Nnọọ
 ---
-🔭 I’m currently working on ```CADE```, ```GIT-VOMMIT``` & ```SAVE```
+🔭 Simultaneously working on ```CADE``` & ```GIT-VOMMIT```
 
 <!-- 🔬 Research Interest: The overarching theme of my doctoral research is to reduce attack surfaces vulnerable to adversarial exploits by preventing the accidental or intentional introduction of vulnerabilities in the design and development phases of the SDLC. -->
 
