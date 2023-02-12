@@ -2,7 +2,7 @@ Nnọọ
 ---
 <!-- 🔭 Currently working on ```CADE.``` -->
 
-> Hi, I am Chi. 2nd Yr PhD student in Cybersecurity (EAS-CSIS) @ UMASSD.\
+> Hi, I am Chi. 2nd Yr PhD student in Cybersec (EAS-CSIS) @ UMASSD.\
 RA @ NSA/DHS CAER & US Navy SW Sec Research. 
 
 
