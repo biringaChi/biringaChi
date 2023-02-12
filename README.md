@@ -29,6 +29,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Stats
+<!-- Stats
 ---
-[![Chidera Biringa's GitHub stats](https://github-readme-stats.vercel.app/api?username=biringaChi&show_icons=true&theme=tokyonight)](https://github.com/biringaChi/github-readme-stats)
+[![Chidera Biringa's GitHub stats](https://github-readme-stats.vercel.app/api?username=biringaChi&show_icons=true&theme=tokyonight)](https://github.com/biringaChi/github-readme-stats) -->
