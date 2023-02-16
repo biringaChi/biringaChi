@@ -3,10 +3,10 @@ Nnọọ
 <!-- 🔭 Currently working on ```CADE.``` -->
 
 > Hi, I am Chi. 2nd Yr PhD student in Cybersec (EAS-CSIS) @ UMASSD.\
-RA @ NSA/DHS CAER & US Navy SW Sec Research. 
+Student Researcher @ NSA/DHS CAER & US Navy SW Sec Research. 
 
 
-Currently working on ```AnnotateGPT```, ```CADE``` and ```cTREE```
+Currently working on ```CADE``` and ```cTREE```
 
 <!-- 🔬 Research Goal: The overarching theme of my doctoral research is to reduce attack surfaces vulnerable to adversarial exploits by preventing the accidental or intentional introduction of vulnerabilities in the design and development phases of the SDLC. -->
 
