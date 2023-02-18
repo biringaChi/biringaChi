@@ -2,7 +2,7 @@ Nnọọ
 ---
 <!-- 🔭 Currently working on ```CADE.``` -->
 
-> Hi, I am Chi. 2nd Yr Ph.D. Student in CyberSec (EAS-CSIS) @ UMD.\
+> 2nd YR Ph.D. Student in Cybersec (EAS-CSIS) @ UMD. Sec + AI = Dissertation.\
 Student Researcher @ NSA/DHS CAER & US Navy. 
 
 Currently working on ```CADE``` and ```cTREE```
