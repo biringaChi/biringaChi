@@ -2,8 +2,9 @@ Nnọọ
 ---
 <!-- 🔭 Currently working on ```CADE.``` -->
 
-> 2nd YR Ph.D. Student in Cybersec (EAS-CSIS) @ UMD. Sec + AI = Dissertation.\
-Student Researcher @ NSA/DHS CAER & US Navy. 
+> 2nd YR Ph.D. Student in Cybersec (EAS-CSIS) @ UMD. \
+> Student Researcher @ NSA/DHS CAER & US Navy. \
+> Sec + AI = Dissertation.
 
 Currently working on ```CADE``` and ```cTREE```
 
