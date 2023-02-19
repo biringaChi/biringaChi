@@ -4,7 +4,7 @@ Nnọọ
 
 > 2nd YR Ph.D. Student in Cybersec (EAS-CSIS) @ UMD. \
 > Student Researcher @ NSA/DHS CAER & US Navy. \
-> Sec + AI = Dissertation.
+> ```Sec + AI = Dissertation.```
 
 Currently working on ```CADE``` and ```cTREE```
 
