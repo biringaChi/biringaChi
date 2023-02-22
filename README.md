@@ -6,7 +6,7 @@ Nnọọ
 > Student Researcher @ NSA/DHS CAER & US Navy. \
 > ```Sec + AI/ML = Dissertation.```
 
-Currently working on ```CADE``` and ```cTREE```
+Currently working on ```CADE``` and ```SARA```
 
 <!-- 🔬 Research Goal: The overarching theme of my doctoral research is to reduce attack surfaces vulnerable to adversarial exploits by preventing the accidental or intentional introduction of vulnerabilities in the design and development phases of the SDLC. -->
 
