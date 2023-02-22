@@ -2,7 +2,7 @@ Nnọọ
 ---
 <!-- 🔭 Currently working on ```CADE.``` -->
 
-> 2nd Year YR Ph.D. Student in EAS-CSIS (S/W Sec) @ UMD. \
+> 2nd YR Ph.D. Student in EAS-CSIS (S/W Sec) @ UMD. \
 > Student Researcher @ NSA/DHS CAER & US Navy. \
 > ```Sec + AI = Dissertation.```
 
