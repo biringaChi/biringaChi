@@ -3,8 +3,8 @@ Nnọọ
 <!-- 🔭 Currently working on ```CADE.``` -->
 
 > 2nd YR Ph.D. Student in EAS-CSIS (Security) @ UMD. \
-> Student Researcher @ NSA/DHS CAER & US Navy (SP). \
-> ```{Sec, AI/ML} Ɛ Dissertation```
+> Student Researcher @ NSA/DHS CAER & US Navy. \
+> ```{Sec, AI} Ɛ Dissertation```
 
 Currently working on ```CADE``` & ```SARA```
 
