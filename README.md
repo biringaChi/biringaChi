@@ -4,7 +4,7 @@ Nnọọ
 
 > 2nd YR Ph.D. Student in EAS-CSIS-Cybersecurity @ UMD. \
 > Student Researcher @ NSA/DHS CAER & US Navy (SP) \
-> ```{SEC, AI/ML, SWP, HWS} Ɛ Dissertation```
+> ```{SEC, AI/ML} Ɛ Dissertation```
 
 Currently working on ```CADE``` & ```SARA```
 
