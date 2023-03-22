@@ -2,12 +2,12 @@ Nnọọ
 ---
 <!-- 🔭 Currently working on ```CADE.``` -->
 
-> 2nd YR Ph.D. Student in EAS-CSIS-Cybersecurity @ UMD \
-> Student Researcher @ NSA/DHS CAER & US Navy (SP) \
-> ```sum(SEC, SWE, AI/ML) = Dissertation```
+> 2nd YR Ph.D. Student in CS-Cybersecurity @ UMD \
+> Student Researcher @ NSA/DHS CAER & US Navy \
+> ```Research Area: SEC, SWE, and ML/NLP```
 <!-- > ```{SEC, AI/ML, SWE} Ɛ Dissertation``` -->
 
-Currently working on ```vPORT``` & ```CADE```
+Currently working on ```SARA``` & ```CADE```
 
 <!-- 🔬 Research Goal: The overarching theme of my doctoral research is to reduce attack surfaces vulnerable to adversarial exploits by preventing the accidental or intentional introduction of vulnerabilities in the design and development phases of the SDLC. -->
 
