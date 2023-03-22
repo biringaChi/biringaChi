@@ -4,8 +4,8 @@ Nnọọ
 
 > 2nd YR Ph.D. Student in EAS-CSIS-Cybersecurity @ UMD \
 > Student Researcher @ NSA/DHS CAER & US Navy (SP) \
-> ```SEC + AI/ML = Dissertation```
-<!-- > ```{SEC, AI/ML} Ɛ Dissertation``` -->
+> ```sum(SEC, SWE, AI/ML) = Dissertation```
+<!-- > ```{SEC, AI/ML, SWE} Ɛ Dissertation``` -->
 
 Currently working on ```vPORT``` & ```CADE```
 
