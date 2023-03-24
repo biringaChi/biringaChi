@@ -1,10 +1,10 @@
-Nnọọ
----
+<!-- Nnọọ -->
+<!-- --- -->
 <!-- 🔭 Currently working on ```CADE.``` -->
 
-> 2nd YR Ph.D. Student in CS-Cybersecurity @ UMD \
-> Student Researcher @ NSA/DHS CAER & US Navy \
-> ```Research Area: SEC, SWE, and ML/NLP```
+<!-- > 2nd YR Ph.D. Student in CS-Cybersecurity @ UMD \ -->
+<!-- > Student Researcher @ NSA/DHS CAER & US Navy \ -->
+<!-- > ```Research Area: SEC, SWE, and ML/NLP``` -->
 <!-- > ```{SEC, AI/ML, SWE} Ɛ Dissertation``` -->
 
 Currently working on ```SARA``` & ```CADE```
