@@ -10,7 +10,7 @@ Research Area: Sec & ML.
 <!-- > ```Research Area: SEC, SWE, and ML/NLP``` -->
 <!-- > ```{SEC, AI/ML, SWE} Ɛ Dissertation``` -->
 
-Currently working on ```CAFA``` & ```CADE```
+Currently working on ```CAFA```, ```CADE```, ```GityTap``` & ```TED```
 
 <!-- 🔬 Research Goal: The overarching theme of my doctoral research is to reduce attack surfaces vulnerable to adversarial exploits by preventing the accidental or intentional introduction of vulnerabilities in the design and development phases of the SDLC. -->
 
