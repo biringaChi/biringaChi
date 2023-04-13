@@ -2,7 +2,7 @@ Nnọọ
 <!-- --- -->
 <!-- 🔭 Currently working on ```CADE.``` -->
 
-2Y CS-Security Ph.D. Student at UMD.  \
+2Y Ph.D. Student in CS-Security at UMD.  \
 Research Area: Sec & ML.
 
 <!-- > 2nd YR Ph.D. Student in CS-Cybersecurity @ UMD \ -->
