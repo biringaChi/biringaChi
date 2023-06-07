@@ -10,7 +10,9 @@ Research Area: ```Sec```, ```ML```, ```NLP/PLP```, and ```SWE```
 <!-- > ```Research Area: SEC, SWE, and ML/NLP``` -->
 <!-- > ```{SEC, AI/ML, SWE} Ɛ Dissertation``` -->
 
-Currently working on ```SiTM``` & ```FAST```
+Currently working on \
+Writing: ```CADE``` \
+Coding: ```SiTM``` & ```FAST```
 
 <!-- 🔬 Research Goal: The overarching theme of my doctoral research is to reduce attack surfaces vulnerable to adversarial exploits by preventing the accidental or intentional introduction of vulnerabilities in the design and development phases of the SDLC. -->
 
