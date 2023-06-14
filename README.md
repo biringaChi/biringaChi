@@ -2,8 +2,8 @@ Nnọọ
 <!-- --- -->
 <!-- 🔭 Currently working on ```CADE.``` -->
 
-2Y Ph.D. Student in CS (Security) @ UMD. \
-Research Area: ```Sec```, ```ML```, ```NLP/PLP```, and ```SWE```
+2Y Ph.D. Student in CS (SW Sec) @ UMD. \
+Research Area: ```SW Sec``` & ```ML```
 
 <!-- > 2nd YR Ph.D. Student in CS-Cybersecurity @ UMD \ -->
 <!-- > Student Researcher @ NSA/DHS CAER & US Navy \ -->
