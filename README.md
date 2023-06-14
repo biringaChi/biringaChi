@@ -2,15 +2,15 @@ Nnọọ
 <!-- --- -->
 <!-- 🔭 Currently working on ```CADE.``` -->
 
-2Y Ph.D. Student in CS (SW Sec) @ UMD. \
-Research Area: ```SW Sec``` & ```ML```
+2Y Ph.D. Student in CS (Software Security) @ UMD. \
+Research Area: ```Software Security``` & ```Machine Learning```
 
 <!-- > 2nd YR Ph.D. Student in CS-Cybersecurity @ UMD \ -->
 <!-- > Student Researcher @ NSA/DHS CAER & US Navy \ -->
 <!-- > ```Research Area: SEC, SWE, and ML/NLP``` -->
 <!-- > ```{SEC, AI/ML, SWE} Ɛ Dissertation``` -->
 
-Currently working on ```SiTM``` & ```FAST```
+Currently working on ```SeFI```
 <!-- Writing: ```CADE```, ```SiTM``` & ```FAST``` \ -->
 <!-- Coding: ```SiTM``` & ```FAST``` -->
 
