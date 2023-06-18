@@ -2,7 +2,7 @@ Nnọọ
 <!-- --- -->
 <!-- 🔭 Currently working on ```CADE.``` -->
 
-2Y Ph.D. Student in CS (Software Security) @ UMD. \
+2Y Ph.D. Student in CS (Security) @ UMD. \
 Research Area: ```Software Security``` & ```Machine Learning```
 
 <!-- > 2nd YR Ph.D. Student in CS-Cybersecurity @ UMD \ -->
@@ -10,7 +10,7 @@ Research Area: ```Software Security``` & ```Machine Learning```
 <!-- > ```Research Area: SEC, SWE, and ML/NLP``` -->
 <!-- > ```{SEC, AI/ML, SWE} Ɛ Dissertation``` -->
 
-Currently working on ```SeFI```
+Currently working on ```SeFI``` & ```FAST```
 <!-- Writing: ```CADE```, ```SiTM``` & ```FAST``` \ -->
 <!-- Coding: ```SiTM``` & ```FAST``` -->
 
