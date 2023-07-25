@@ -3,14 +3,15 @@ Nnọọ
 <!-- 🔭 Currently working on ```CADE.``` -->
 
 2Y Ph.D. Student in CS (Security) @ UMD. \
-Research Area: ```Software Security``` & ```Machine Learning```
+Research Interest: ```Software Security```, ```Machine Learning```, ```Software Performance``` and ```Secure Software Design```
 
 <!-- > 2nd YR Ph.D. Student in CS-Cybersecurity @ UMD \ -->
 <!-- > Student Researcher @ NSA/DHS CAER & US Navy \ -->
 <!-- > ```Research Area: SEC, SWE, and ML/NLP``` -->
 <!-- > ```{SEC, AI/ML, SWE} Ɛ Dissertation``` -->
 
-Currently working on ```SeFI``` & ```FAST```
+Currently working on ```SeFI: A Novel Approach Towards Aggressive Vulnerability Handling```
+
 <!-- Writing: ```CADE```, ```SiTM``` & ```FAST``` \ -->
 <!-- Coding: ```SiTM``` & ```FAST``` -->
 
