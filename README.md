@@ -5,7 +5,9 @@ Nnọọ
 2Y Ph.D. Student in CS (Security) @ UMD 
 
 Research Interest: ```Software Security```, ```Machine Learning```, ```Software Performance``` and ```Secure Software Design``` \
-Currently working on ```SeFI: A Novel Approach Towards Aggressive Vulnerability Handling```
+Currently working on ```SeFI: A Novel Approach Towards Aggressive Vulnerability Handling``` and 
+```CEED: Cost-Efficient Vulnerability Detection```
+
 <!-- > 2nd YR Ph.D. Student in CS-Cybersecurity @ UMD \ -->
 <!-- > Student Researcher @ NSA/DHS CAER & US Navy \ -->
 <!-- > ```Research Area: SEC, SWE, and ML/NLP``` -->
