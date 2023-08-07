@@ -2,7 +2,7 @@ Nnọọ
 <!-- --- -->
 <!-- 🔭 Currently working on ```CADE.``` -->
 
-2Y Ph.D. Student in CS (Security) @ UMD 
+2Y Computer Science PhD Student
 
 Research Interest: ```Software Security```, ```Machine Learning```, ```Software Performance``` and ```Secure Software Design``` \
 Currently working on ```SeFI: A Novel Approach Towards Aggressive Vulnerability Handling``` and 
