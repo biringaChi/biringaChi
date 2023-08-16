@@ -2,11 +2,13 @@ Nnọọ
 <!-- --- -->
 <!-- 🔭 Currently working on ```CADE.``` -->
 
-2Y Computer Science PhD Student
+PhD Student in Computer Science
+\
+Research: ```Cradle-to-Grave Security```
 
-Research Interest: ```Software Security```, ```Machine Learning```, ```Software Performance``` and ```Secure Software Design``` \
+<!-- Research Interest: ```Software Security```, ```Machine Learning```, ```Software Performance``` and ```Secure Software Design``` \
 Currently working on ```SeFI: A Novel Approach Towards Aggressive Vulnerability Handling``` and 
-```CEED: Cost-Efficient Vulnerability Detection```
+```CEED: Cost-Efficient Vulnerability Detection``` -->
 
 <!-- > 2nd YR Ph.D. Student in CS-Cybersecurity @ UMD \ -->
 <!-- > Student Researcher @ NSA/DHS CAER & US Navy \ -->
