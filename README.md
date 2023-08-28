@@ -6,7 +6,7 @@ Nnọọ
 
 <!-- Research: ```Cradle-to-Grave Software Security```-->
 
-Research Interest: ```Cybersecurity```, ```Machine Learning```, ```Software Performance``` and ```Secure Software Design``` 
+Research Interest: ```Security & Privacy```, ```Machine Learning```, ```Software Performance``` and ```Secure Software Design``` 
 <!-- Currently working on ```SeFI: A Novel Approach Towards Aggressive Vulnerability Handling``` and 
 ```CEED: Cost-Efficient Vulnerability Detection```
 
