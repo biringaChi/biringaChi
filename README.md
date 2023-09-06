@@ -6,9 +6,9 @@ PhD Student in Computer Science.
 
 <!-- Research: ```Cradle-to-Grave Software Security```-->
 
-Research Interest: ```Security & Privacy```, ```Machine Learning```, ```Software Performance``` and ```Secure Software Design``` 
+Research Interest: ```Security & Privacy```, ```Machine Learning``` and ```Software Performance```
 <!-- Currently working on ```SeFI: A Novel Approach Towards Aggressive Vulnerability Handling``` and 
-```CEED: Cost-Efficient Vulnerability Detection```
+```CEED: Cost-Efficient Vulnerability Detection```  and ```Secure Software Design``` 
 
 <!-- > 2nd YR Ph.D. Student in CS-Cybersecurity @ UMD \ -->
 <!-- > Student Researcher @ NSA/DHS CAER & US Navy \ -->
