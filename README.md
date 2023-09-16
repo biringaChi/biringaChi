@@ -6,7 +6,7 @@
 
 <!-- Research: ```Cradle-to-Grave Software Security```-->
 
-Research Interest: ```Security & Privacy```, ```Machine Learning``` and ```Software Performance```
+Research Interest: ```Proactive Vulnerability Handling``` and ```Machine Learning for Software Security``` and ```Software Code Performance```
 <!-- Currently working on ```SeFI: A Novel Approach Towards Aggressive Vulnerability Handling``` and 
 ```CEED: Cost-Efficient Vulnerability Detection```  and ```Secure Software Design``` 
 
