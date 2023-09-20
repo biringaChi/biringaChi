@@ -2,11 +2,11 @@
 <!-- --- -->
 <!-- 🔭 Currently working on ```CADE.``` -->
 
-<!-- PhD Student in Computer Science. -->
+PhD Student in EAS-Computer Science (Security)
 
 <!-- Research: ```Cradle-to-Grave Software Security```-->
 
-Research Interest: ```Proactive Vulnerability Handling```, ```Machine Learning for Software Security``` and ```Software Code Performance```
+Research Interest: ```Proactive Vulnerability Handling```, ```Machine Learning for Software Security```, and ```Code Performance```
 <!-- Currently working on ```SeFI: A Novel Approach Towards Aggressive Vulnerability Handling``` and 
 ```CEED: Cost-Efficient Vulnerability Detection```  and ```Secure Software Design``` 
 
