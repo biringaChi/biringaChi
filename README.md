@@ -2,7 +2,7 @@
 <!-- --- -->
 <!-- 🔭 Currently working on ```CADE.``` -->
 
-PhD Student in EAS-Computer Science (Security)
+PhD Student in Computer Science
 
 <!-- Research: ```Cradle-to-Grave Software Security```-->
 
