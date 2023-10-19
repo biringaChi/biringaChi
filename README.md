@@ -2,7 +2,7 @@ Nnọọ
 <!-- --- -->
 <!-- 🔭 Currently working on ```CADE.``` -->
 
-PhD Student in Computer Science
+PhD Student in Cybersecurity
 
 <!-- Research: ```Cradle-to-Grave Software Security```-->
 
