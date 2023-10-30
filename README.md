@@ -4,9 +4,9 @@
 
 <!-- PhD Student in Cybersecurity -->
 
-<!-- Research: ```Cradle-to-Grave Software Security```-->
+Research: ```Proactive Software Security```
 
-Research Interest: ```Proactive Vulnerability Handling```, ```Machine Learning for S/W Security```, and ```S/W Code Performance```
+<!--  Research Interest: ```Security-in-the-Middle```, ```Machine Learning for S/W Security```, and ```S/W Code Performance```
 <!-- Currently working on ```SeFI: A Novel Approach Towards Aggressive Vulnerability Handling``` and 
 ```CEED: Cost-Efficient Vulnerability Detection```  and ```Secure Software Design``` 
 
