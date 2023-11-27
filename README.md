@@ -1,10 +1,11 @@
 <!-- Nnọọ -->
+
 <!-- --- -->
 <!-- 🔭 Currently working on ```CADE.``` -->
 
-<!-- PhD Student in Cybersecurity -->
+Hello, I'm a PhD Candidate in Computer Science. My research exists at the intersection of software security, machine learning, and software engineering.
 
-Research: ```Proactive Software Security```
+<!-- Dissertation Title: ```Secure-from-Inception: Software Security through Proactive Vulnerabilities Handling``` -->
 
 <!--  Research Interest: ```Security-in-the-Middle```, ```Machine Learning for S/W Security```, and ```S/W Code Performance```
 <!-- Currently working on ```SeFI: A Novel Approach Towards Aggressive Vulnerability Handling``` and 
