@@ -3,7 +3,7 @@
 <!-- --- -->
 <!-- 🔭 Currently working on ```CADE.``` -->
 
-Hello, I'm a CS PhD Candidate. My research intersects cybersecurity, AI & software engineering.
+Hello, I'm a CS PhD Candidate. My research intersects software security, AI & software engineering.
 
 <!-- Dissertation Title: ```Secure-from-Inception: Software Security through Proactive Vulnerabilities Handling``` -->
 
